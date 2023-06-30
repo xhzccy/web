@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>风景</title>
+    <link rel="stylesheet" href="my_css.css">
+</head>
+<body>
+    <div class="main_container">
+        <p class="character1" style="margin: 0 0 0 10px">风景照</p>
+            <div class="model">
+                <img src="1.jpg" title="图片1">
+                <p class="text1">
+                    风景1
+                </p>
+                <p class="text2">
+                    在这个美丽的地方，蓝天白云下，青山绿水相映成趣，宛如一幅天然的画卷。
+                </p>
+            </div>
+            <div class="model">
+                <img src="2.jpg" title="图片2">
+                <p class="text1">
+                    风景2
+                </p>
+                <p class="text2">
+                    沿着小径漫步，花香四溢，五彩斑斓的花朵竞相绽放，点缀着整片风景如诗如画。
+                </p>
+            </div>
+            <div class="model">
+                <img src="3.jpg" title="图片3">
+                <p class="text1">
+                    风景3
+                </p>
+                <p class="text2">
+                    水面泛起微微涟漪，微风吹拂着湖面，湖水如镜，倒映出周围群山的壮丽景色。
+                </p>
+            </div>
+            <div class="model">
+                <img src="4.jpg" title="图片4">
+                <p class="text1">
+                    风景4
+                </p>
+                <p class="text2">
+                    在金色的晚霞中，远处的田野交织着丰收的喜悦，一片金黄的稻浪随风摇曳，宛如金海一般绵延至远方。
+                </p>
+            </div>
+            <div class="model">
+                <img src="5.jpg" title="图片5">
+                <p class="text1">
+                    风景5
+                </p>
+                <p class="text2">
+                    登上高山之巅，视野豁然开朗，一望无际的绿色山脉宛如连绵的巨龙，展现着大自然的雄伟和壮丽。    
+                </p>
+            </div>
+            <div class="model">
+                <img src="6.jpg" title="图片6">
+                <p class="text1">
+                    风景6
+                </p>
+                <p class="text2">
+                    悬崖峭壁上流淌着飞瀑，如银帘挂于山间，轻柔的水雾洒在脸上，让人感受到清凉与活力。
+                </p>
+            </div>
+            <div class="model">
+                <img src="7.jpg" title="图片7">
+                <p class="text1">
+                    风景7
+                </p>
+                <p class="text2">
+                    黄昏时分，夕阳西下，天空渐渐染上了橙红色的余晖，映衬着湖泊中荡漾的倒影，宛如一幅梦幻般的画面。
+                </p>
+            </div>
+            <div class="model">
+                <img src="8.jpg" title="图片8">
+                <p class="text1">
+                    风景8
+                </p>
+                <p class="text2">
+                    走进花海，身处花的海洋中，各种花朵争奇斗艳，绽放出绚丽多彩的色彩，仿佛进入了一个童话世界。
+                </p>
+            </div>
+        </div>
+    <div id="right">
+        <img id="right_img" src="问号.svg">
+       <p style="font-size:12px;font-weight: bold;margin:15px 0 15px 0" >
+           反馈与帮助
+       </p>
+    </div>
+</body>
+</html>
